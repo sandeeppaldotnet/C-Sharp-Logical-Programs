@@ -12,6 +12,7 @@ namespace C_Sharp_Logical_Programs
         {
             Swapping_Program_in_C__with_Examples swap=new Swapping_Program_in_C__with_Examples ();
             swap.swap();
+            swap.Swapping_Without_Temp_Variable();
         }
     }
 }
