@@ -10,9 +10,9 @@ namespace C_Sharp_Logical_Programs
     {
         static void Main(string[] args)
         {
-            Swapping_Program_in_C__with_Examples swap=new Swapping_Program_in_C__with_Examples ();
-            swap.swap();
-            swap.Swapping_Without_Temp_Variable();
+            //Swapping_Program_in_C__with_Examples swap=new Swapping_Program_in_C__with_Examples ();
+            //swap.swap();
+            //swap.Swapping_Without_Temp_Variable();
         }
     }
 }
